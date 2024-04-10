@@ -122,7 +122,7 @@ const styles = StyleSheet.create({
     flex: 2,
   },
   textButton: {
-    color: '#7c7c7c',
+    color:'#7c7c7c',
     fontSize: 20,
   }
 });
